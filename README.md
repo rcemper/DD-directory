@@ -23,6 +23,12 @@ guide of the selected repo  - if available -  is required.
 <td><a href='https://openexchange.intersystems.com/package/Clinical-Mindmap-Viewer''>excellent 6* package</a><demo/a></td>
 </table>
 
+| OEX package | Repo | Demo |   
+| --- | --- | --- |
+| <a href='https://openexchange.intersystems.com/package/Clinical-Mindmap-Viewer'>Clinical Mindmap Viewer</a> | <a href='https://openexchange.intersystems.com/package/Clinical-Mindmap-Viewer'>repor</a> | https://openexchange.intersystems.com/package/Clinical-Mindmap-Viewer |     
+| --- | --- | --- | 
+  
+ 
 ### Prerequisites
 Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Docker desktop](https://www.docker.com/products/docker-desktop) installed.
 ### Installation
