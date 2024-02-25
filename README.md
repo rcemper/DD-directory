@@ -13,21 +13,9 @@ rare cases (e.g. ECP, MIRROR) you have to  provide your own license.
 In any case, checking the installation instructions and the test  
 guide of the selected repo  - if available -  is required. 
 
-
-
-<table cellpadding='1' cellspacing='1'>
-<tr>
-<th style='text-align: center;'>Package</th><th style='text-align: center;'>Repo/th><th>Demo</th></tr>
-<tr><td><a href='https://openexchange.intersystems.com/package/Clinical-Mindmap-Viewer'>Clinical Mindmap Viewer</a></td>
-<td><a href='https://openexchange.intersystems.com/package/Clinical-Mindmap-Viewer''>excellent 6* package</a><derepo/td>
-<td><a href='https://openexchange.intersystems.com/package/Clinical-Mindmap-Viewer''>excellent 6* package</a><demo/a></td>
-</table>
-
 | OEX package | Repo | Demo |   
-| --- | --- | --- |
-| <a href='https://openexchange.intersystems.com/package/Clinical-Mindmap-Viewer'>Clinical Mindmap Viewer</a> | <a href='https://openexchange.intersystems.com/package/Clinical-Mindmap-Viewer'>repor</a> | https://openexchange.intersystems.com/package/Clinical-Mindmap-Viewer |     
-| --- | --- | --- | 
-  
+| --- | --- | --- |    
+| <a href='/package/MDX2JSON'>MDX2JSON</a> | <a href='https://github.com/intersystems-ru/Cache-MDX2JSON'>repo</a> | <a href='https://github.com/rcemper/DD_mdx2json'>demo</a> |  47     
  
 ### Prerequisites
 Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Docker desktop](https://www.docker.com/products/docker-desktop) installed.
