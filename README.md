@@ -4,7 +4,7 @@ available in IPM. It is mainly targeted at packages where
 a demo with Docker is not included in the source repo.  
 
 It is not a clone of the original repo but uses the IPM        
-package the same way you would do  in your own IIRIS instance.    
+package the same way you would do  in your own IRIS instance.    
 Where required and appropriate also some test data are added.    
 WebTerminal and PasswordLess access is always added.    
 
