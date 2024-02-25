@@ -10,7 +10,8 @@ WebTerminal and PasswordLess access is always added.
 
 The attempt is to use only IRIS community edition.  For some   
 rare cases (e.g. ECP, MIRROR) you have to  provide your own license.    
-In any case, checking the installation instructions is required. 
+In any case, checking the installation instructions and the test  
+guide of the selected repo  - if availabble -  is required. 
 
 ### Prerequisites
 Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Docker desktop](https://www.docker.com/products/docker-desktop) installed.
