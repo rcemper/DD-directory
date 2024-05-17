@@ -16,7 +16,7 @@ guide of the selected repo  - if available -  is required.
 | OEX package | Repo | Demo |   
 | --- | --- | --- |   
 | <a href='https://openexchange.intersystems.com/package/BeI-MultiModel'>BeI-MultiModel</a> | <a href='https://github.com/ivove/BeI-MultiModel/tree/R_1.1.1'>repo</a> | <a href='https://github.com/rcemper/DK_BeI-MultiModel'>demo</a> | 181
-| <a href='https://openexchange.intersystems.com/package/BulkProfile-HL7RoutingRules'>BulkProfile_HL7RoutingRules</a> | <a href='https://github.com/rcemper/DK_BulkProfile_HL7RoutingRules> | <a href='https://github.com/rcemper/DD_BulkProfile_HL7RoutingRules'>demo</a> | 631
+| <a href='https://openexchange.intersystems.com/package/BulkProfile-HL7RoutingRules'>BulkProfile_HL7RoutingRules</a> | <a href='https://github.com/alexatwoodhead/BulkProfile_HL7RoutingRules'>repo</a> | <a href='https://github.com/rcemper/DD_BulkProfile_HL7RoutingRules'>demo</a> | 631
 | <a href='https://openexchange.intersystems.com/package/Cache-in-Docker'> Cache-in-Docker </a> | <a href='https://github.com/rcemper/Cache-in-Docker'>repo</a> | <a href='https://github.com/rcemper/Cache-in-Docker'>demo</a> | 824
 | <a href='https://openexchange.intersystems.com/package/Custom-ZenProxy'> Custom ZenProxy </a> | <a href='https://github.com/DanielAguilarGarcia/CustomZenProxy'>repo</a> | <a href='https://github.com/DanielAguilarGarcia/CustomZenProxy'>demo</a> | 753
 | <a href='https://openexchange.intersystems.com/package/EnsHelper'> EnsHelper </a> | <a href='https://github.com/alexatwoodhead/EnsHelper'>repo</a> | <a href='https://github.com/rcemper/DK_EnsHelper'>demo</a> | 833
