@@ -56,9 +56,9 @@ Open IRIS console
 $ docker-compose exec iris iris session iris
 USER>
 ```
-or use **WebTerminal**
+or use **iterm**
 ```
-http://localhost:42773/terminal/
+http://localhost:42773/iterm/
 ```
 To access IRIS System Management Portal
 ```
